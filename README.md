@@ -86,8 +86,12 @@ Verified data oracles, on-chain attestation, x402-payable agent tools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomasetienne&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8&include_all_commits=true&count_private=true&hide=contribs" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasetienne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=thomasetienne&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8&include_all_commits=true&count_private=true&hide=contribs,issues&hide_rank=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasetienne&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thomasetienne&bg_color=0d1117&color=e2e8f0&line=94a3b8&point=e2e8f0&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20graph" width="95%" />
 
 </div>
 
