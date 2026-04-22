@@ -57,7 +57,7 @@ Verified data oracles, on-chain attestation, x402-payable agent tools.
 
 ### 🚀 &nbsp; Now
 
-> Building **Momentum** — multi-signal video intelligence for high-stakes content.
+> Building **Momentum** — an operating system that makes businesses AI-native and lets them scale without linear headcount.
 > Shipping agent platforms, closing CVEs, and prototyping agent-economy primitives on the side.
 
 ---
@@ -79,17 +79,6 @@ Verified data oracles, on-chain attestation, x402-payable agent tools.
 </sub>
 
 </div>
-
----
-
-```ts
-const thomas = {
-  shipping:    ["AI agents", "SaaS foundations", "CVE research"],
-  researching: ["agent economy", "MCP tooling", "on-chain attestation"],
-  currently_at: "Momentum",
-  reach_me:    "axiom.trade/@talt",
-};
-```
 
 ---
 
