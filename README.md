@@ -18,28 +18,39 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 #### 🤖 &nbsp; AI agents in production
-Multi-tenant platforms, vertical copilots, agent runtimes shipped to real businesses.
+Multi-tenant SaaS platforms and verticalized copilots shipped to real businesses.
 
-→ [`invision-ai`](https://github.com/thomasetienne/invision-ai)
+→ [`invision-ai`](https://github.com/thomasetienne/invision-ai) · Multi-tenant AI agent SaaS foundation  
+→ [`manifold`](https://github.com/thomasetienne/manifold) · WhatsApp agent for tradespeople
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 #### 🔓 &nbsp; Security research
 Vulnerability research, exploit dev, responsible disclosure.
 
-→ [`perfex-crm-rce`](https://github.com/thomasetienne/perfex-crm-rce)<br/><sub>MITRE CVE in progress.</sub>
+→ [`perfex-crm-rce`](https://github.com/thomasetienne/perfex-crm-rce) · RCE research on Perfex CRM<br/><sub>MITRE CVE in progress.</sub>
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 📱 &nbsp; Mobile × Python × MCP
+Native mobile apps wired to Python backends, with MCP servers exposing the data to AI assistants.
+
+→ [`iron-fitness`](https://github.com/thomasetienne/iron-fitness) · React Native + FastAPI + MCP server
+
+</td>
+<td valign="top" width="50%">
 
 #### ₿ &nbsp; Agent economy × crypto
 Verified data oracles, on-chain attestation, x402-payable agent tools.
 
-→ [`MoltOracle`](https://github.com/thomasetienne/MoltOracle)
+→ [`MoltOracle`](https://github.com/thomasetienne/MoltOracle) · Cross-sourced crypto oracle for agents
 
 </td>
 </tr>
@@ -47,9 +58,11 @@ Verified data oracles, on-chain attestation, x402-payable agent tools.
 
 <div align="center">
 
-<a href="https://github.com/thomasetienne/invision-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=invision-ai&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="130" /></a>
-<a href="https://github.com/thomasetienne/perfex-crm-rce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=perfex-crm-rce&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="130" /></a>
-<a href="https://github.com/thomasetienne/MoltOracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=MoltOracle&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="130" /></a>
+<a href="https://github.com/thomasetienne/invision-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=invision-ai&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="120" /></a>
+<a href="https://github.com/thomasetienne/manifold"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=manifold&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="120" /></a>
+<a href="https://github.com/thomasetienne/iron-fitness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=iron-fitness&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="120" /></a>
+<a href="https://github.com/thomasetienne/perfex-crm-rce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=perfex-crm-rce&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="120" /></a>
+<a href="https://github.com/thomasetienne/MoltOracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasetienne&repo=MoltOracle&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" height="120" /></a>
 
 </div>
 
